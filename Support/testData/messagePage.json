@@ -1,0 +1,12 @@
+{
+    "email": "manpreetsinghbains@clanap.com",
+    "password": "Client@2023!",
+    "baseurl": "https://www.passes-staging.com/login",
+    "emptymsg" : "Message can't be empty",
+    "disableSendButtonBackgroundColor": "rgb(224, 224, 224)",
+    "text": "test",
+    "dataFillIntoPriceBox":"4",
+    "selectImageBoxBackgroundColor": "rgb(208, 0, 104)",
+    "getTextwithoutSendTheMedia": "You cannot create a paid message without media"
+
+}
